@@ -31,7 +31,9 @@ This tool showed millions of errors concentrated on the odd bytes (data lines MD
 
 ## Download
 
-Download [`bin/VRAMTEST.COM`](https://github.com/Tony359/CirrusLogic-VRAM-Tester/raw/main/bin/VRAMTEST.COM) (version 0.2, about 7 KB) and copy it to your DOS machine. [`bin/README.TXT`](bin/README.TXT) is a short DOS text version of these instructions.
+Download `VRAMTEST.COM` (about 7 KB) from the [latest release](https://github.com/Tony359/CirrusLogic-VRAM-Tester/releases/latest) and copy it to your DOS machine. Current version: [v0.2](https://github.com/Tony359/CirrusLogic-VRAM-Tester/releases/tag/v0.2).
+
+The same file is also in the [`bin`](bin) folder. [`bin/README.TXT`](bin/README.TXT) is a short DOS text version of these instructions.
 
 ## Usage
 
